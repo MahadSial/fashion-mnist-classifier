@@ -1,0 +1,10 @@
+# Bytecode and environment folders
+__pycache__/
+*.py[cod]
+.env
+.venv
+.vscode/
+
+# Training outputs and data
+data/
+training_metrics.png
