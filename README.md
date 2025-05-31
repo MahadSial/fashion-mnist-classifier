@@ -4,7 +4,9 @@ A clean, minimal PyTorch project for classifying clothing images from the Fashio
 
 ## 📈 Example Output
 
-![Training Curve](training_metrics.png)
+<p align="center">
+  <img src="training_metrics.png" width="400" alt="Training Curve">
+</p>
 
 ## 🚀 Getting Started
 
